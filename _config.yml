@@ -11,9 +11,9 @@ title                    : "Home"
 title_separator          : "-"
 name                     : &name "Jushang Qiu"
 description              : &description "personal description"
-url                      : https://miraQlous.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://jushangqiu.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "miraQlous/miraQlous.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Jushang Qiu(仇居上)"
+  name             : "Jushang Qiu"
   avatar           : "profile.png"
   bio              : "Australian National University"
   location         : "Canberra, Australia"
@@ -88,7 +88,6 @@ author:
   googlescholar    : 
   email            : "Jushang.Qiu@anu.edu.au"
   facebook         : 
-  wechat           : "miraQlous"
   linkedin         : "https://www.linkedin.com/in/jushang-qiu-506247181/"
 # Reading Files
 include:
