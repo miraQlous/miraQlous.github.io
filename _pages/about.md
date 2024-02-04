@@ -8,11 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-<blockquote>
-People who believe in miracles are as miraculous as miracles.  
-
+> People who believe in miracles are as miraculous as miracles.  
 (相信奇迹的人本身就和奇迹一样了不起)
-</blockquote>
 
 Greetings. Welcome to my website. I named it "miraqlous" after the adjective "miraculous" by replacing "cu" with "q". Initially I would like to create a delightful username that makes me encouraged. This word suddenly came to my mind and I surprisingly found my last name "Qiu" is fully involved in it. So, Yes! This website is to record my academic experience and mirror how solid my academic background is. Please be my guest.
 
