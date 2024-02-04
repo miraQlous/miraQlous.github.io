@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jushang Qiu"
+title                    : "Intro"
 title_separator          : "-"
 name                     : &name "Jushang Qiu"
 description              : &description "personal description"
