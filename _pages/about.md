@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <blockquote>
-People who believe in miracles are as miraculous as miracles.
+People who believe in miracles are as miraculous as miracles.  
 
 (相信奇迹的人本身就和奇迹一样了不起)
 </blockquote>
