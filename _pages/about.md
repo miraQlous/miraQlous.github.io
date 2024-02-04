@@ -15,6 +15,6 @@ Welcome. I named my website "miraqlous" after the adjective word "miraculous". I
 
 Education
 ======
-Master of Machine Learning & Computer Vision - Australian National University, 2023.02 - 2024.12
+Master of Machine Learning & Computer Vision - Australian National Uni. 2023.02 - 2024.12
 
-Bachelor of Computing - the University of Sydney, 2019.02 - 2022.09
+Bachelor of Computing - the Uni. of Sydney, 2019.02 - 2022.09
