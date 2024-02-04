@@ -21,4 +21,4 @@ Bachelor of Computing - the Uni. of Sydney, 2019.02 - 2022.09
 
 Research Interests
 ======
-Machine Learning Models, Generative Models，3D Reconstruction, Text-to-image, Static Video to Dynamic Video, Video Fixing.
+Machine Learning Models, Generative Models，3D Reconstruction, Text-to-image, Static Video to Dynamic Video, Video Fixing, Scene understanding, Point Cloud Completion.
