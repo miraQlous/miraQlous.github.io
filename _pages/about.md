@@ -11,7 +11,7 @@ redirect_from:
 > People who believe in miracles are as miraculous as miracles.  
 (相信奇迹的人本身就和奇迹一样了不起)
 
-Greetings. Welcome to my website. I named it "miraqlous" after the adjective "miraculous" by replacing "cu" with "q". Initially I would like to create a delightful username that makes me encouraged. This word suddenly came to my mind and I surprisingly found my last name "Qiu" is fully involved in it. So, Yes! This website is to record my academic experience and mirror how solid my academic background is. Please be my guest.
+Welcome. I named my website "miraqlous" after the adjective word "miraculous" . Initially I'd like to create a username that makes me encouraged and this quote suddenly came to my mind. More than surprisingly, by replacing "cu" with "q" I found my last name Qiu fully involved in the word miraculous. Perferct! So this website is created to record my academic experience and mirror how solid my academic background is. Please be my guest.
 
 Education
 ======
